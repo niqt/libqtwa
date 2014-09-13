@@ -1,0 +1,4 @@
+libqtwa
+=======
+
+Qt WA Library
